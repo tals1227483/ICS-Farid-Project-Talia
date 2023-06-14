@@ -1,0 +1,2 @@
+hey there:<kivy.uix.textinput.TextInput object at 0x117a70590>
+:<kivy.uix.textinput.TextInput object at 0x117ab5160>
